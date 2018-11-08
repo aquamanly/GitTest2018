@@ -1,0 +1,7 @@
+package com.fdmgroup.FifteenQuestions;
+
+public interface TestInterface {
+
+	
+	default void InterfaceMethod() {}
+}

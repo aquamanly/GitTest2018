@@ -1,0 +1,14 @@
+package com.fdmgroup.FifteenQuestions;
+
+public class PartOne {
+	public abstract class GraphicObject {
+		   // declare fields
+		   // declare nonabstract methods
+		
+		   abstract void draw();
+		}
+	
+		public void defense() {
+			
+		}
+}

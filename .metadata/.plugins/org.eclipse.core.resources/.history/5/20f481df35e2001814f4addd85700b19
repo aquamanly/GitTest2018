@@ -1,0 +1,15 @@
+package com.fdmgroup.FifteenQuestions;
+
+public class RealClass implements TestInterface{
+
+	@Override
+	public void test() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	
+	
+	
+	
+}

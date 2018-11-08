@@ -1,0 +1,7 @@
+package com.fdmgroup.FifteenQuestions;
+
+public interface TestInterface2 {
+
+	void Restore();
+	
+}

@@ -1,0 +1,11 @@
+package com.fdmgroup.pensions.task3;
+
+public class View {
+	public static void printEligible(Person person) {
+		System.out.println("old");
+	}
+	
+	public static void printIneligible(Person person) {
+		System.out.println("young");
+	}
+}

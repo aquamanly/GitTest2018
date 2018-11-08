@@ -1,0 +1,8 @@
+package com.fdmgroup.FifteenQuestions;
+
+public interface TestInterface {
+
+	final int THRESHOLD = 5;
+	
+	public void test();
+}

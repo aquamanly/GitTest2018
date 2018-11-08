@@ -1,0 +1,5 @@
+package com.fdmgroup.FifteenQuestions;
+
+public interface TestInterface {
+
+}

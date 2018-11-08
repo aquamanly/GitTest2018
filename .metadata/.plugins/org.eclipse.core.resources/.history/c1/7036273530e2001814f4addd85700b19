@@ -1,0 +1,17 @@
+package com.fdmgroup.pensions.task3;
+
+public class PensionLogic {
+	
+	public static boolean isPensionable(Person person, String year) {
+		if (Integer.parseInt(year) != 2014) {
+			View.printEligible(person);
+		} else {
+			View.printIneligible(person);
+		}
+		
+		return false;
+		
+	}
+	
+	
+}

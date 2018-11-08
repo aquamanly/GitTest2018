@@ -1,0 +1,6 @@
+package com.fdmgroup.FifteenQuestions;
+
+public class NotSoRealClass extends PartOne {
+	
+	
+}
